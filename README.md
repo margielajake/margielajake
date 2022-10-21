@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @margielajake
+- 👋 Hi, I’m Jake Campbell
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML, CSS, Javascript, react.js
 - 💞️ I’m looking to collaborate on e-commerce and full page websites
